@@ -5,8 +5,11 @@ GROUPE F
 Vous trouverez ici tout le contenu des exercices HTML vu ensemble en TD.
 
 ## CORRECTIONS DISPONIBLES
-[x] Exercice 1
-[] Exercice 2
-[] Exercice 3
-[] Exercice 4
-[] Maquette
+- [x] Exercice 1
+- [] Exercice 2
+- [] Exercice 3
+- [] Exercice 4
+- [] Maquette
+
+## COMMENT TELECHARGER LE CODE
+![COMMENT TELECHARGER LE CODE](https://github.com/bastien-roussel/GRP-E_Exercices/blob/main/assets/tuto_dl_code.png)
