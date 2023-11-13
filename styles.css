@@ -35,3 +35,18 @@ li {
   text-decoration: none;
   color: inherit;
 }
+
+
+/* EXERCICE 3 */
+
+.mon-bouton {
+  border-radius: 25em;
+  background-color: rgb(162, 251, 152);
+  padding: 1.5em;
+}
+
+.mon-bouton:hover {
+  background-color: #484848;
+  color: white;
+  cursor: pointer;
+}
