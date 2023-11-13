@@ -1,0 +1,37 @@
+/* EXERCICE 1 */
+
+#mon-titre {
+  color: blue;
+  text-align: center;
+  font-weight: 900;
+  /* EXERCICE 2 */
+  margin: 0;
+}
+
+.mon-bo-header {
+  background-color: #909090;
+  /* Exercice 2 */
+  padding: 2em;
+}
+
+
+/* EXERCICE 2 */
+
+body {
+  margin: 0;
+}
+
+.ma-belle-liste {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.liens {
+  text-decoration: none;
+  color: inherit;
+}
