@@ -1,0 +1,17 @@
+.carousel {
+  width: 50%;
+  margin: 5em;
+}
+
+.card {
+  margin: 5em;
+}
+
+.couleur-perso {
+  background-color: #000000;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
